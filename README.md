@@ -1,5 +1,5 @@
 # dabu
-dabu is a tiny, basic terminal task manager created as a test.
+Dabu es un administrador de tareas de terminal básico y pequeño creado como prueba.
 
 ## Archivos principales
 
