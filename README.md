@@ -1,5 +1,5 @@
 # dabu
-Dabu es un administrador de tareas de terminal básico y pequeño creado como prueba.
+dabu es un administrador de tareas de terminal básico y pequeño creado como prueba.
 
 ## Archivos principales
 
