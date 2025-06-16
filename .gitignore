@@ -1,0 +1,12 @@
+dabu
+output
+*.o
+
+
+*.swp
+*.bak
+*.tmp
+.DS_Store
+
+
+*.db
